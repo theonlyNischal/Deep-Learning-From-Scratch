@@ -2,3 +2,5 @@
 *.ipynb_checkpoints
 labels.txt
 reviews.txt
+!Load_Profile_Data_2073.csv
+/Electricity-Load-Profile/
